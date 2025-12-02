@@ -24,9 +24,9 @@ Proyek ini bertujuan untuk membangun model klasifikasi *supervised* menggunakan 
 
 | Model | Akurasi Testing | Precision (TEPAT) | F1-Score (TEPAT) |
 | :--- | :--- | :--- | :--- |
-| **SVM Linear** | `[Isi Akurasi Linear]` | `[Isi Precision dari Classification Report]` | `[Isi F1-Score dari Classification Report]` |
-| **SVM RBF Dasar** | `[Isi Akurasi RBF Dasar]` | `[Isi Precision dari Classification Report]` | `[Isi F1-Score dari Classification Report]` |
-| **Model Terbaik (Tuned)** | `[Isi Akurasi Terbaik]` | `[Isi Precision dari Classification Report]` | `[Isi F1-Score dari Classification Report]` |
+| **SVM Linear** | `Akurasi: 0.8816` | ` 0.85 ` | `  0.87  ` |
+| **SVM RBF Dasar** | `0.8684` | ` 0.87  ` | `0.84  ` |
+| **Model Terbaik (Tuned)** | `0.9342` | `0.94 ` | ` 0.92 ` |
 
 **Kesimpulan:** Model **[NAMA MODEL TERBAIK]** dengan Akurasi **[AKURASI TERBAIK]%** adalah yang terbaik.
 
@@ -36,5 +36,5 @@ Proyek ini bertujuan untuk membangun model klasifikasi *supervised* menggunakan 
 3.  Jalankan file `SVM_kelulusan.ipynb` (notebook ini) secara berurutan.
 
 ## 6. Identitas Mahasiswa
-- **Nama:** [NAMA ANDA]
-- **NIM:** [NIM ANDA]
+- **Nama:** Nisa Puspita Sari
+- **NIM:** 2457201002448
